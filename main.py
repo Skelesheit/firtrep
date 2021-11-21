@@ -10,10 +10,6 @@ def print_hi(name):
     print('aaa')
     print("new test")
     print("okey, it is my end!")
-    print("i understood")
-    print("this is testing branch")
-    print("okey new test...")
-    print("test for master  ")
 
 
 # Press the green button in the gutter to run the script.
