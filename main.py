@@ -10,6 +10,7 @@ def print_hi(name):
     print('aaa')
     print("new test")
     print("okey, it is my end!")
+    print("i understood")
 
 
 # Press the green button in the gutter to run the script.
