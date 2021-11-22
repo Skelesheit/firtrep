@@ -11,6 +11,7 @@ def print_hi(name):
     print("new test")
     print("okey, it is my end!")
     print("i understood")
+    print("for master")
 
 
 # Press the green button in the gutter to run the script.
