@@ -12,6 +12,7 @@ def print_hi(name):
     print("okey, it is my end!")
     print("i understood")
     print("this is testing branch")
+    print("okey new test...")
 
 
 # Press the green button in the gutter to run the script.
